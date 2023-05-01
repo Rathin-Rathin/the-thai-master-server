@@ -4,13 +4,13 @@ const app = express();
 app.use(cors());
 const port = 5000;
 
-const data = { name: 'Rathin Barai Rahul' };
+const data =require ('./chefs/data.json');
 
 app.get('/',(req, res)=> {
     res.send('The thai master server home url');
 })
 
-app.get('/name', (req, res) => {
+app.get('/chef', (req, res) => {
     res.send(data);
 })
 
