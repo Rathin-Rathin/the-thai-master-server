@@ -4,6 +4,9 @@
         "chefName": "Markarum Huda",
         "chefImg": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1682980399~exp=1682980999~hmac=59c3e4d0e1c1fa72029452a23de4ca0ab35a3537f73db84d9b5a50d0aebbc7ce",
         "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -37,6 +40,9 @@
         "chefName": "Kavin Kilifs",
         "chefImg": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1682980709~exp=1682981309~hmac=52f346d8054ac51f06258221b2e2ae7023bf8c383e8b6590f1ee124c95d806e2",
         "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -70,6 +76,115 @@
         "chefName": "Jocef Joychowel",
         "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
         "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
+        "experiences": "10 years of experience in Thai cuisine",
+        "recipes": [
+          {
+            "recipesId": 1,
+            "recipesName": "Pad Thai",
+            "img": "https://img.freepik.com/free-photo/top-view-delicious-noodles-concept_23-2148773775.jpg?w=740&t=st=1682980468~exp=1682981068~hmac=b61185a5f67dac2982ae82953a637d1f3369b87270fde15db5418dfc421043c1",
+            "ingredients": ["noodles", "shrimp", "eggs", "bean sprouts", "peanuts"],
+            "shortDescription": "Stir-fried noodles with shrimp and peanuts",
+            "ratings": 4.5
+          },
+          {
+            "recipesId": 2,
+            "recipesName": "Tom Yum Soup",
+            "img": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23357.jpg?w=740&t=st=1682980542~exp=1682981142~hmac=189edafcb4f35ade3e2a82a49c5e3a8308140b5614138596e2a313d869ef167f",
+            "ingredients": ["shrimp", "lemongrass", "galangal", "kaffir lime leaves"],
+            "shortDescription": "Spicy and sour soup with shrimp",
+            "ratings": 4.7
+          },
+          {
+            "recipesId": 3,
+            "recipesName": "Green Curry",
+            "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "shortDescription": "Spicy and aromatic curry with chicken",
+            "ratings": 4.3
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chefName": "Jocef Joychowel",
+        "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
+        "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
+        "experiences": "10 years of experience in Thai cuisine",
+        "recipes": [
+          {
+            "recipesId": 1,
+            "recipesName": "Pad Thai",
+            "img": "https://img.freepik.com/free-photo/top-view-delicious-noodles-concept_23-2148773775.jpg?w=740&t=st=1682980468~exp=1682981068~hmac=b61185a5f67dac2982ae82953a637d1f3369b87270fde15db5418dfc421043c1",
+            "ingredients": ["noodles", "shrimp", "eggs", "bean sprouts", "peanuts"],
+            "shortDescription": "Stir-fried noodles with shrimp and peanuts",
+            "ratings": 4.5
+          },
+          {
+            "recipesId": 2,
+            "recipesName": "Tom Yum Soup",
+            "img": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23357.jpg?w=740&t=st=1682980542~exp=1682981142~hmac=189edafcb4f35ade3e2a82a49c5e3a8308140b5614138596e2a313d869ef167f",
+            "ingredients": ["shrimp", "lemongrass", "galangal", "kaffir lime leaves"],
+            "shortDescription": "Spicy and sour soup with shrimp",
+            "ratings": 4.7
+          },
+          {
+            "recipesId": 3,
+            "recipesName": "Green Curry",
+            "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "shortDescription": "Spicy and aromatic curry with chicken",
+            "ratings": 4.3
+          }
+        ]
+      }, {
+        "id": 5,
+        "chefName": "Jocef Joychowel",
+        "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
+        "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
+        "experiences": "10 years of experience in Thai cuisine",
+        "recipes": [
+          {
+            "recipesId": 1,
+            "recipesName": "Pad Thai",
+            "img": "https://img.freepik.com/free-photo/top-view-delicious-noodles-concept_23-2148773775.jpg?w=740&t=st=1682980468~exp=1682981068~hmac=b61185a5f67dac2982ae82953a637d1f3369b87270fde15db5418dfc421043c1",
+            "ingredients": ["noodles", "shrimp", "eggs", "bean sprouts", "peanuts"],
+            "shortDescription": "Stir-fried noodles with shrimp and peanuts",
+            "ratings": 4.5
+          },
+          {
+            "recipesId": 2,
+            "recipesName": "Tom Yum Soup",
+            "img": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23357.jpg?w=740&t=st=1682980542~exp=1682981142~hmac=189edafcb4f35ade3e2a82a49c5e3a8308140b5614138596e2a313d869ef167f",
+            "ingredients": ["shrimp", "lemongrass", "galangal", "kaffir lime leaves"],
+            "shortDescription": "Spicy and sour soup with shrimp",
+            "ratings": 4.7
+          },
+          {
+            "recipesId": 3,
+            "recipesName": "Green Curry",
+            "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "shortDescription": "Spicy and aromatic curry with chicken",
+            "ratings": 4.3
+          }
+        ]
+      }, {
+        "id": 6,
+        "chefName": "Jocef Joychowel",
+        "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
+        "chefLike": 980,
+        "chefBio": {
+          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        },
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
