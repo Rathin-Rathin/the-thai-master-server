@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/coquettish-attractive-happy-girlfriend-receive-charming-expensive-gift-smiling-joyfully-receive-desired-thing-clasp-hands-near-jawline-flirty-feminine-pose-standing-white-background_176420-36987.jpg?w=740&t=st=1683134303~exp=1683134903~hmac=e9b0da3f92a7648001f433781a1012863f40a67d825b4db246614db1d0d84ed1",
+      "ratings": 4.5,
+      "name": "Tasty Tacos",
+      "feedback": "Delicious tacos with fresh ingredients.",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/good-looking-feminine-brunette-woman-with-perfect-beaming-smile-no-blemishes-makeup-skin-touching-her-face-looking-pleased-got-rid-acne_176420-37399.jpg?w=740&t=st=1683134337~exp=1683134937~hmac=64f830ffd51960daa3739a8061b1585e7d4ab8ff3d1ea427437e81e11375269b",
+      "ratings": 3.8,
+      "name": "Pizza Paradise",
+      "feedback": "The best pizza in town!",
+      "city": "New York"
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/portrait-beautiful-woman_144627-7893.jpg?w=360&t=st=1683134384~exp=1683134984~hmac=b39c67a0c95289a103c29ca602a0ab7be048b1f9d175725dcc83565573c3f7f7",
+      "ratings": 4.2,
+      "name": "Burger Bar",
+      "feedback": "Juicy burgers with all the fixings.",
+      "city": "Chicago"
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?w=740&t=st=1683134414~exp=1683135014~hmac=644f8f2d6d81e78d5186ab1ad56b84e4b03aff3c0ae6318322dde6fbb742cb53",
+      "ratings": 4.7,
+      "name": "Sushi Spot",
+      "feedback": "Fresh and delicious sushi rolls.",
+      "city": "San Francisco"
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/handsome-young-man-with-new-stylish-haircut_176420-19637.jpg?w=740&t=st=1683134436~exp=1683135036~hmac=1a1ff2d3d83f4224f038942c41c085099c74951b23dcbe69c620d3dcc321c4ab",
+      "ratings": 3.9,
+      "name": "Thai Terrace",
+      "feedback": "Authentic Thai food with bold flavors.",
+      "city": "Seattle"
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-vector/handsome-man_1308-85984.jpg?w=360&t=st=1683134460~exp=1683135060~hmac=2865725737c441e75bf76d2cb23e0716fcb23aa5bec39b1b213005d4dfc7e87d",
+      "ratings": 4.4,
+      "name": "Gourmet Grill",
+      "feedback": "Upscale grill with delicious entrees.",
+      "city": "Dallas"
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=740&t=st=1683134491~exp=1683135091~hmac=a688c1f89340af7d8d89c774041c5a3dd74bbbd27e62e93cf4aea630074684fb",
+      "ratings": 3.6,
+      "name": "Mediterranean Munchies",
+      "feedback": "Healthy and flavorful Mediterranean dishes.",
+      "city": "Miami"
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-vector/handsome-man_1308-85984.jpg?w=360&t=st=1683134460~exp=1683135060~hmac=2865725737c441e75bf76d2cb23e0716fcb23aa5bec39b1b213005d4dfc7e87d",
+      "ratings": 4.1,
+      "name": "BBQ Bonanza",
+      "feedback": "Tender and smoky BBQ favorites.",
+      "city": "Austin"
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=740&t=st=1683134491~exp=1683135091~hmac=a688c1f89340af7d8d89c774041c5a3dd74bbbd27e62e93cf4aea630074684fb",
+      "ratings": 4.6,
+      "name": "Ramen Rave",
+      "feedback": "Hearty bowls of savory ramen.",
+      "city": "Portland"
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-vector/handsome-man_1308-85984.jpg?w=360&t=st=1683134460~exp=1683135060~hmac=2865725737c441e75bf76d2cb23e0716fcb23aa5bec39b1b213005d4dfc7e87d",
+      "ratings": 4.0,
+      "name": "Mexican Madness",
+      "feedback": "Spicy and satisfying Mexican cuisine.",
+      "city": "Houston"
+    },
+    {
+      "id": 11,
+      "image": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=740&t=st=1683134491~exp=1683135091~hmac=a688c1f89340af7d8d89c774041c5a3dd74bbbd27e62e93cf4aea630074684fb",
+      "ratings": 4.3,
+      "name": "Café Cravings",
+      "feedback": "Cozy café with tasty breakfast options.",
+      "city": "Boston"
+    },
+    {
+      "id": 12,
+      "image": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=740&t=st=1683134491~exp=1683135091~hmac=a688c1f89340af7d8d89c774041c5a3dd74bbbd27e62e93cf4aea630074684fb",
+      "ratings": 3.7,
+      "name": "Bakery Bliss",
+      "feedback": "Freshly baked goods and sweet treats.",
+      "city": "Philadelphia"
+      }
+      ]
+  
