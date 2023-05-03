@@ -5,6 +5,7 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 const data =require ('./chefs/data.json');
 const feedback = require('./happyClient/feedback.json');
+const food = require('./food/food.json');
 app.get('/',(req, res)=> {
     res.send('The thai master server home url');
 })
@@ -22,7 +23,10 @@ app.get('/chef/:id', (req, res) => {
 app.get('/feedback', (req, res) => {
     res.send(feedback);
 })
-
+//Food Blogs data
+app.get('/food', (req, res) => {
+    res.send(food);
+})
 app.listen(port, () => {
     console.log('The thai master server running on the port :', port);
 })
