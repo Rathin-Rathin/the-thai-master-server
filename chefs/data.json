@@ -4,9 +4,9 @@
         "chefName": "Markarum Huda",
         "chefImg": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1682980399~exp=1682980999~hmac=59c3e4d0e1c1fa72029452a23de4ca0ab35a3537f73db84d9b5a50d0aebbc7ce",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio": 
+          "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -40,9 +40,8 @@
         "chefName": "Kavin Kilifs",
         "chefImg": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=740&t=st=1682980709~exp=1682981309~hmac=52f346d8054ac51f06258221b2e2ae7023bf8c383e8b6590f1ee124c95d806e2",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio":  "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -76,9 +75,8 @@
         "chefName": "Jocef Joychowel",
         "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio":  "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -112,9 +110,8 @@
         "chefName": "Jocef Joychowel",
         "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio":  "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -147,9 +144,8 @@
         "chefName": "Jocef Joychowel",
         "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio":  "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
@@ -182,9 +178,8 @@
         "chefName": "Jocef Joychowel",
         "chefImg": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682980778~exp=1682981378~hmac=ded3f5ab63a650a450453957657bf62ae5ddd6278d130e8007fa8ecc21007252",
         "chefLike": 980,
-        "chefBio": {
-          "description": "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
-        },
+        "chefBio":  "John Doe is a French cuisine specialist with over 10 years of experience in the culinary industry. He has won numerous awards, including Best Chef of the Year 2021 and a Michelin Star restaurant in 2022. His passion for creating exquisite dishes using only the finest ingredients is reflected in his unique and innovative approach to cooking."
+        ,
         "experiences": "10 years of experience in Thai cuisine",
         "recipes": [
           {
