@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "foodTitle": "Spicy Thai Basil Chicken with Rice Noodles",
+        "foodTitle": "Spicy Thai Basil Chicken with Rice Noodles Spicy Thai Basil Chicken ",
         "views": 345,
         "comments": 23
     },
     {
         "id": 2,
-        "foodTitle": "Thai Green Papaya Salad with Grilled Shrimp",
+        "foodTitle": "Thai Green Papaya Salad with Grilled Shrimp Thai Green Papaya ",
         "views": 789,
         "comments": 67
     },
     {
         "id": 3,
-        "foodTitle": "Crispy Fried Thai Spring Rolls with Sweet Chili Sauce",
+        "foodTitle": "Thai Green Papaya Salad with Grilled Shrimp Rolls ",
         "views": 567,
         "comments": 45
     },
     {
         "id": 4,
-        "foodTitle": "Thai Massaman Curry with Chicken and Potatoes",
+        "foodTitle": "Thai Massaman Curry with Chicken and Potatoes Thai Green Papaya ",
         "views": 234,
         "comments": 12
     }

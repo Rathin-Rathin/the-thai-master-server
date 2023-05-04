@@ -29,7 +29,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots","bean sprouts"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
@@ -64,7 +64,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots","galangal"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
@@ -91,7 +91,7 @@
             "recipesId": 2,
             "recipesName": "Tom Yum Soup",
             "img": "https://img.freepik.com/free-photo/pork-bones-tom-yum-thai-food-tom-yum-pork-ribs-decorated-with-ingredients_1150-23357.jpg?w=740&t=st=1682980542~exp=1682981142~hmac=189edafcb4f35ade3e2a82a49c5e3a8308140b5614138596e2a313d869ef167f",
-            "ingredients": ["shrimp", "lemongrass", "galangal", "kaffir lime leaves"],
+            "ingredients": ["shrimp", "lemongrass", "galangal", "kaffir lime leaves","bamboo shoots"],
             "shortDescription": "Spicy and sour soup with shrimp",
             "ratings": 4.7
           },
@@ -99,7 +99,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots","galangal"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
@@ -134,7 +134,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots","galangal"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
@@ -168,7 +168,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots","bamboo shoots"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
@@ -202,7 +202,7 @@
             "recipesId": 3,
             "recipesName": "Green Curry",
             "img": "https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1682980570~exp=1682981170~hmac=aa01895733466bf6a38bfb2ebc600e1396204ea9530aa2830933b5337ec255fa",
-            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots"],
+            "ingredients": ["chicken", "coconut milk", "green curry paste", "bamboo shoots", "peanuts"],
             "shortDescription": "Spicy and aromatic curry with chicken",
             "ratings": 4.3
           }
